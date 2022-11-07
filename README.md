@@ -1,25 +1,23 @@
 # Namaskaara 🙏
-I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pixincreate&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**   
+<p align="left"> 
+    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/officel/48/c-plus-plus.png"/> </a>
+    <a href="https://www.kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png/"> </a>
+</p>
+  
+ # 
+ <p align="left">
+    <a href="[Github stats](https://github-readme-stats.vercel.app/)"> <img src="https://github-readme-stats.vercel.app/api?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/> </a>
+    <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pixincreate&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
+    <a href="[Top Langs](https://github.com/anuraghazra/github-readme-stats)"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> </a>
+</p>
 
 [![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate)
 
-
-### Languages known to Digital World:  
-- C/C++ [intermediate]
-- Kotlin [Beginner]
-- Java [Beginner]
-- Python [Intermediate]
-- HTML, CSS and JS [Beginner]
-- SQL [Have pretty good experience with MongoDB and little knowledge about SQL-G10]
-- Golang  [Beginner, haven't coded it in past 2 years, might have forgotten!]
-- Verilog [Have knowledge about it, struggle to get things work, can manage!]
-  
 ### I'm currently working on and planning to work  
 - `Lenz`
 - `> Diary_`
